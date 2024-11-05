@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente soy estudiante universitario de la universidad UPC y estudio la carrera<br>de Ingeniería y de Software. Me encuentro en el 5to ciclo de mi carrera. 😝
+Actualmente soy estudiante universitario de la universidad UPC y estudio la carrera<br>de Ingeniería y de Software. Me encuentro en el 6to ciclo de mi carrera. 😝
 <br><br>
 Actualmente programo en C++, Angular, Vue, Java ya que la universidad me brinda estos
 <br>conocimientos y por mi cuenta estoy aprendiendo cursos de desarrollo FrontEnd.
