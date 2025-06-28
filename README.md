@@ -51,12 +51,6 @@
 
 ---
 
-## 📝 Últimos Tweets
-
-[![Último Tweet](https://gtce.itsvg.in/api?username=https://twitter.com/kuni_2005)](https://twitter.com/kuni_2005)
-
----
-
 ## 💬 Frase dev inspiradora
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -69,11 +63,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kuni2005&icon=2&color=1" alt="Profile views"/>
-</p>
-
----
 
 <!--
 Hecho con ❤️ por Kuni2005
